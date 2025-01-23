@@ -1,0 +1,17 @@
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\bin\Debug\net8.0-windows\PACMAN ENHANCED.exe
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\bin\Debug\net8.0-windows\PACMAN ENHANCED.deps.json
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\bin\Debug\net8.0-windows\PACMAN ENHANCED.runtimeconfig.json
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\bin\Debug\net8.0-windows\PACMAN ENHANCED.dll
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\bin\Debug\net8.0-windows\PACMAN ENHANCED.pdb
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\PACMAN_ENHANCED.Form1.resources
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\PACMAN_ENHANCED.Properties.Resources.resources
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\PACMAN ENHANCED.csproj.GenerateResource.cache
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\PACMAN ENHANCED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\PACMAN ENHANCED.AssemblyInfoInputs.cache
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\PACMAN ENHANCED.AssemblyInfo.cs
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\PACMAN ENHANCED.csproj.CoreCompileInputs.cache
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\PACMAN ENHANCED.dll
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\refint\PACMAN ENHANCED.dll
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\PACMAN ENHANCED.pdb
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\PACMAN ENHANCED.genruntimeconfig.cache
+C:\Users\itzth\source\repos\PACMAN ENHANCED\PACMAN ENHANCED\obj\Debug\net8.0-windows\ref\PACMAN ENHANCED.dll
