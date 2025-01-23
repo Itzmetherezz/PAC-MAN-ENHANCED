@@ -1,4 +1,4 @@
-# PAC-MAN WITH PROPERLY PROGRAMMED GHOSTS USING ONLY C##
+# PAC-MAN WITH PROPERLY PROGRAMMED GHOSTS USING ONLY C#
 
 ## Overview
 **PAC-MAN WITH PROPERLY PROGRAMMED GHOSTS USING C#** has been made purely on C# WPF without any other editors like unity. The Ghosts has been well programmed move as accurately as a game.They will also start randomly seeking the player like the original game. You have to collect all the coins on the map to win the game. 
